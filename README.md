@@ -1,19 +1,24 @@
-# docker-react
+# Docker-react
 
 A React frontend application deployed using Docker and AWS Elastic Beanstalk.
 
-## Table of Contents
+---
 
-* Project Overview
-* Features
-* Getting Started
-* Docker Usage
-* Deployment
-* Environment Variables
-* Testing
-* License
+## 📝 Table of Contents
 
-## Project Overview
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Getting Started](#getting-started)  
+- [Docker Usage](#docker-usage)  
+- [Deployment](#deployment)  
+- [Environment Variables](#environment-variables)  
+- [Testing](#testing)  
+- [License](#license)  
+
+---
+
+
+## 🚀 Project Overview
 
 This project is a React frontend app, containerized with Docker and deployed to AWS Elastic Beanstalk. It demonstrates:
 
@@ -22,14 +27,14 @@ This project is a React frontend app, containerized with Docker and deployed to 
 * CI/CD deployment using GitHub Actions
 * Using AWS Elastic Beanstalk for cloud hosting
 
-## Features
+## ✨ Features
 
 * React frontend
 * Dockerized for consistent deployment
 * CI/CD ready via GitHub Actions
 * Cloud deployment with AWS Elastic Beanstalk
 
-## Getting Started
+## 🏁 Getting Started
 
 Clone the repository:
 
@@ -52,7 +57,7 @@ npm start
 
 Your app should be running locally at `http://localhost:3000`.
 
-## Docker Usage
+## 🐳 Docker Usage
 
 ### Build the Docker image
 
@@ -80,7 +85,7 @@ Stop containers:
 docker-compose -f docker-compose-dev.yml down
 ```
 
-## Deployment
+## ☁️ Deployment
 
 This app is deployed to AWS Elastic Beanstalk using GitHub Actions.
 
@@ -88,7 +93,7 @@ This app is deployed to AWS Elastic Beanstalk using GitHub Actions.
 * The workflow builds the Docker image, creates a ZIP package, and deploys it to EB
            |
 
-## Testing
+## 🧪 Testing
 
 Run React tests:
 
@@ -96,6 +101,6 @@ Run React tests:
 npm test -- --coverage
 ```
 
-## License
+## 📄 License
 
 [MIT License](LICENSE)
