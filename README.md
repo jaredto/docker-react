@@ -8,13 +8,13 @@ A React frontend application containerized with Docker and deployed using AWS El
 
 ## 📝 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Docker Usage](#docker-usage)
-- [Deployment](#deployment)
-- [Testing](#testing)
-- [License](#license)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Docker Usage](#-docker-usage)
+- [Deployment](#-deployment)
+- [Testing](#-testing)
+- [License](#-license)
 
 ---
 
