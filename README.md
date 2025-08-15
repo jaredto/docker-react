@@ -10,8 +10,7 @@ A React frontend application deployed using Docker and AWS Elastic Beanstalk.
 - [Features](#features)  
 - [Getting Started](#getting-started)  
 - [Docker Usage](#docker-usage)  
-- [Deployment](#deployment)  
-- [Environment Variables](#environment-variables)  
+- [Deployment](#deployment)   
 - [Testing](#testing)  
 - [License](#license)  
 
